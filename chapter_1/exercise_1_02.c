@@ -4,5 +4,5 @@
 
 int main (){
     printf("hello, world\c");
-    return 0;
+    return 0; // exit the program run
 }
