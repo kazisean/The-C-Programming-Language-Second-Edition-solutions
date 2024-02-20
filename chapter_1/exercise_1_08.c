@@ -11,7 +11,7 @@ int main (){
 
 
     // operation
-    while ((c - getchar()) != EOF){
+    while ((c = getchar()) != EOF){
         // if new line
         if (c == '\n')
             ++newline;
